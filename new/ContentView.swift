@@ -30,3 +30,6 @@ struct ContentView: View {
 
 
 ///0000
+
+
+//comp
